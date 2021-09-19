@@ -6,6 +6,4 @@ def mul(num,aitera):
       i=i+1
 num1=int(input("enter the  table number want to print "))
 itera=int(input ("enter the iteration number "))
-# mul(num1,itera)
-mul(4,9)
-mul(9,19)
+mul(num1,itera)
